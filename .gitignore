@@ -1,0 +1,7 @@
+# Ignorar arquivos executáveis compilados
+*.exe
+*.o
+*.out
+
+# Ignorar pastas/arquivos específicos do VS Code
+.vscode/
